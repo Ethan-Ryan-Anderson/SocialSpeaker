@@ -17,3 +17,6 @@ A RaspberyPi/ESP-32 based portable battery powered speaker, with the ability the
 ## Profiles
 Profiles are the modes or settings, you can create really anything the hardware can handle, (assuming you can make it with python) , they live all on the PI
 
+#Current State
+brand new project with more soon to come
+
